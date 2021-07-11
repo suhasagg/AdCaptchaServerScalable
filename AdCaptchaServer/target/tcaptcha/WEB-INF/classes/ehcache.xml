@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="ehcache.xsd">
+
+	<diskStore path="java.io.tmpdir" />
+
+	<!--cacheManagerPeerProviderFactory
+		class="net.sf.ehcache.distribution.RMICacheManagerPeerProviderFactory"
+		properties="peerDiscovery=manual,rmiUrls=//127.0.0.1:40002/keyCodeRepository"
+		/-->
+
+	
+
+	
+	<!--cacheManagerPeerListenerFactory
+		class="net.sf.ehcache.distribution.RMICacheManagerPeerListenerFactory"
+		properties="hostName=127.0.0.1, port=40001, socketTimeoutMills=2000" /-->
+
+	<cache name="keyCodeRepository" maxElementsInMemory="2160000"
+		eternal="false" overflowToDisk="true" diskPersistent="false"
+		diskExpiryThreadIntervalSeconds="120">
+		
+		<!--cacheEventListenerFactory
+			class="net.sf.ehcache.distribution.RMICacheReplicatorFactory"
+			properties="replicateAsynchronously=true, replicatePuts=true, replicateUpdates=true, replicateUpdatesViaCopy= false, replicateRemovals= true" /-->
+	</cache>
+
+	<defaultCache maxElementsInMemory="10000" eternal="false"
+		overflowToDisk="true" timeToIdleSeconds="60" timeToLiveSeconds="60"
+		diskPersistent="false" diskExpiryThreadIntervalSeconds="120" />
+</ehcache>

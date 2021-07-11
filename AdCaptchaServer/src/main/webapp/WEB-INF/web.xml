@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" xmlns="http://java.sun.com/xml/ns/javaee">
+	<display-name>Times Captcha Server</display-name>
+
+	
+		<web-resource-collection>
+			<web-resource-name>Protected Pages</web-resource-name>
+			<url-pattern>/reg.jsp</url-pattern>
+			<url-pattern>/reg</url-pattern>
+			<url-pattern>/manager</url-pattern>
+			<http-method>GET</http-method>
+			<http-method>POST</http-method>
+		</web-resource-collection>
+
+
+		
+     <servlet>
+		 <servlet-name>CaptchaServlet</servlet-name>
+		 <servlet-class>com.tcaptcha.web.CaptchaServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>TicketServlet</servlet-name>
+		<servlet-class>com.tcaptcha.web.TicketServlet</servlet-class>
+	</servlet>
+	
+	
+	<servlet>
+		<servlet-name>ValidationServlet</servlet-name>
+		<servlet-class>com.tcaptcha.web.ValidationServlet</servlet-class>
+	</servlet>
+	
+	
+	 <servlet>
+		<servlet-name>RegisterApiKeyServlet</servlet-name>
+		<servlet-class>com.tcaptcha.web.RegisterApiKeyServlet</servlet-class>
+	</servlet>
+	
+	
+	<servlet-mapping>
+		<servlet-name>CaptchaServlet</servlet-name>
+		<url-pattern>/captcha/*</url-pattern>
+	</servlet-mapping>
+	
+	
+	<servlet-mapping>
+		<servlet-name>TicketServlet</servlet-name>
+		<url-pattern>/ticket/*</url-pattern>
+	</servlet-mapping>
+	
+	
+	<servlet-mapping>
+		<servlet-name>ValidationServlet</servlet-name>
+		<url-pattern>/validate/*</url-pattern>
+	</servlet-mapping>
+	
+	
+	
+	<servlet-mapping>
+		<servlet-name>RegisterApiKeyServlet</servlet-name>
+		<url-pattern>/reg/*</url-pattern>
+	</servlet-mapping>
+	
+	<error-page>
+		<error-code>404</error-code>
+		<location>/404.html</location>
+	</error-page>
+	
+</web-app>
