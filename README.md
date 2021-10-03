@@ -3,7 +3,21 @@ Applications include -
 
 1)Bot pattern detection/ Distributed Denial of Service/ Intrusion Detection
 
-2)Authentication before user comment - Ensures quality of comment data (Users who post geniune content with proper context) (Malware comments based Noise removal / Semantic check ML machines are not able to ensure good context in comment based on News Article context mnetization channel from different content agencies (User feedback loop) + User reward system for users who post good quality comments (Coupons based Creatives demoed), also boosts SSO logins and more user participation). A win - win senario for publishers + advertisers + content agencies.
+2)Authentication before user comment - 
+
+i)Ensures quality of comment data (Users who post geniune content with proper context) 
+
+ii)Malware/bogus comments based Noise removal / Semantic check ML machines are not able to ensure good context in comment based on News Article context.(Comment IQ)
+
+iii)Monetization channel from different content agencies (User feedback loop, direct Authenticated interaction between user and content agency providing content 
+
+iv)User reward system for users who post woh have good frequency of good quality comments (Reward Coupons based Creatives demoed), also boosts SSO logins and more user participation). 
+
+v)Refined comments data available for ML Models for quality sentiment analysis.
+
+vi)Feature to collect emotion data for content and added optional Authentication Layer before user emoji input to ensure good quality emotion data which can be used as input to train ML models removing junk patterns and quality predictions using human computation.
+
+A win - win senario for publishers + advertisers + content agencies.
 
 System is fully functional with full scale testing.
 
