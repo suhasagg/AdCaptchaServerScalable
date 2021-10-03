@@ -50,6 +50,24 @@ There are four modes of Captcha -
 
 ![image](https://i.ibb.co/qCZ61ZT/example7.png)
 
+
+![image](https://i.ibb.co/rk5jjxM/39.jpg)
+
+
+![image](https://i.ibb.co/dQzsK60/28.jpg)
+
+
+![image](https://i.ibb.co/Yyvdk4D/27.jpg)
+
+
+![image](https://i.ibb.co/DYpcWYf/12.jpg)
+
+
+![image](https://i.ibb.co/TqgCk4w/10.jpg)
+
+
+![image](https://i.ibb.co/sqWLcdt/8.jpg)
+
 --------------------------------------------------------------------------------------
 
 Demo Configuration -
