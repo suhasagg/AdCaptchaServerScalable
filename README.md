@@ -48,28 +48,40 @@ Optimum media lead to better persona match thus, leading to more engagement and 
 
 1)Location
 
+
 2)Platform Based
+
 
 3)Time Unit
 
+
 4)Behavioral Segments
 
+
 5)Topic Segments
+
 
 Publisher Analytic Segments
 
 Engagement Time Based Segments
 
 1)Segment Engagement Times
+
 2)Topic Engagement Times
+
 3)Section Engagement Times
+
 
 Session Based Segments
 
 1)Session count
+
 2)Time Since Last Session
+
 3)Session Engagement Time
+
 4)Loyalty Nature
+
 5)Visitor Count.
 
 Machine Learning based Segments
@@ -78,9 +90,12 @@ This covers different domains Personas
 
 1)Emotion Persona
 
+
 2)Affinities based on Creative Persona
 
+
 3)Refined Demographic Persona
+
 
 4)Affinities of Topic and Segments present in User Persona with respect to Media Object segments.
 
@@ -106,9 +121,12 @@ There are four modes of Captcha -
 
 0-Advertisement Captcha
 
+
 1-Math Captcha
 
+
 2-Advertisement Captcha with hint
+
 
 3-Plain/Text Captcha 
 
