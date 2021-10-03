@@ -68,6 +68,36 @@ There are four modes of Captcha -
 
 ![image](https://i.ibb.co/sqWLcdt/8.jpg)
 
+
+![image](https://i.ibb.co/sFKMZLV/42.gif)
+
+
+![image](https://i.ibb.co/stjsBJz/41.gif)
+
+
+
+![image](https://i.ibb.co/HFmxwn8/48.gif)
+
+
+
+![image](https://i.ibb.co/GdVV2Dy/44.gif)
+
+
+
+![image](https://i.ibb.co/hKGHfP1/43.gif)
+
+
+
+![image](https://i.ibb.co/fNnk7bf/45.gif)
+
+
+
+![image](https://i.ibb.co/DpwLN1g/47.gif)
+
+
+
+![image](https://i.ibb.co/1zJPYPN/46.gif)
+
 --------------------------------------------------------------------------------------
 
 Demo Configuration -
