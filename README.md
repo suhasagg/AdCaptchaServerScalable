@@ -22,6 +22,7 @@ A win - win senario for publishers + advertisers + content agencies.
 System is fully functional with full scale testing.
 
 Some integrations which are to be done -
+
 1)Elasticsearch based data store integration due..
 
 2)ML models integration due..
