@@ -25,11 +25,29 @@ There are four modes of Captcha -
 3-Plain/Text Captcha 
 
 ![image](https://i.ibb.co/RjkcsSD/example1.png)
+
+
+
 ![image](https://i.ibb.co/jkf3mZw/example2.png)
+
+
+
 ![image](https://i.ibb.co/vPDy6fc/example3.png)
+
+
+
 ![image](https://i.ibb.co/Gv3fh4W/example4.png)
+
+
+
 ![image](https://i.ibb.co/C1jXLvG/example5.png)
+
+
+
 ![image](https://i.ibb.co/xJpG5KC/example6.png)
+
+
+
 ![image](https://i.ibb.co/qCZ61ZT/example7.png)
 
 --------------------------------------------------------------------------------------
