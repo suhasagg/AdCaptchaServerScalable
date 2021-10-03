@@ -11,7 +11,7 @@ ii)Malware/bogus comments based Noise removal / Semantic check ML machines are n
 
 iii)Monetization channel from different content agencies (User feedback loop, direct Authenticated interaction between user and content agency providing content)
 
-iv)User reward system for users who post woh have good frequency of good quality comments (Reward Coupons based Creatives demoed), also boosts SSO logins and more user participation). 
+iv)User reward system for users who have good post frequency and good quality comments (Reward Coupons based Creatives demoed), also boosts SSO logins and more user participation). DMP integration detects all user patterns like loyalty nature, different domain user personas for better personalization.
 
 v)Refined comments data available for ML Models for quality sentiment analysis.
 
