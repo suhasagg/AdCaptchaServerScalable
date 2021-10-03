@@ -9,7 +9,7 @@ i)Ensures quality of comment data (Users who post geniune content with proper co
 
 ii)Malware/bogus comments based Noise removal / Semantic check ML machines are not able to ensure good context in comment based on News Article context.(Comment IQ)
 
-iii)Monetization channel from different content agencies (User feedback loop, direct Authenticated interaction between user and content agency providing content 
+iii)Monetization channel from different content agencies (User feedback loop, direct Authenticated interaction between user and content agency providing content)
 
 iv)User reward system for users who post woh have good frequency of good quality comments (Reward Coupons based Creatives demoed), also boosts SSO logins and more user participation). 
 
