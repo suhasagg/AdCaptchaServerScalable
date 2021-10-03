@@ -61,9 +61,11 @@ Optimum media lead to better persona match thus, leading to more engagement and 
 5)Topic Segments
 
 
-Publisher Analytic Segments
+```Publisher Analytic Segments```
 
-Engagement Time Based Segments
+
+```Engagement Time Based Segments```
+
 
 1)Segment Engagement Times
 
@@ -72,7 +74,8 @@ Engagement Time Based Segments
 3)Section Engagement Times
 
 
-Session Based Segments
+```Session Based Segments```
+
 
 1)Session count
 
@@ -82,9 +85,12 @@ Session Based Segments
 
 4)Loyalty Nature
 
-5)Visitor Count.
+5)Visitor Count
 
-Machine Learning based Segments
+
+
+```Machine Learning based Segments```
+
 
 This covers different domains Personas
 
