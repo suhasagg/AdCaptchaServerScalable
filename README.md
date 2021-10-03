@@ -25,9 +25,11 @@ Some integrations which are to be done -
 
 1)Elasticsearch based data store integration due..
 
+
 2)ML models integration due..
 
 Will Fetch Persona data from First party Local Storage based on Persona Connect Documentation submitted.
+
 3)Fetches User Persona Data from Data Management Platform for optimising Creative recommendation - images,videos,news articles and other media based Creative.
 
 Feature Set - 
