@@ -106,7 +106,7 @@ Demo Configuration -
 -------------------------------------------------------------------------------------------
 
 URL-
-http://localhost:8080/tcaptcha/
+http://localhost:8080/captcha/
 
 
 
