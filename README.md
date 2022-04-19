@@ -17,6 +17,8 @@ v)Refined comments data available for ML Models for quality sentiment analysis.
 
 vi)Feature to collect emotion data for content and added optional Authentication Layer before user emoji input to ensure good quality emotion data which can be used as input to train ML models removing junk patterns and quality predictions using human computation.
 
+vii)Rewards based on user persona data currency.
+
 A win - win senario for publishers + advertisers + content agencies.
 
 System is fully functional with full scale testing.
