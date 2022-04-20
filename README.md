@@ -1,4 +1,4 @@
-Adserver Supporting User input, (basic user interaction tracking also supported - impression + click tracking) , highly scalable cache based) with a purpose.
+Applications of Captcha Server / Adserver Supporting User input, (basic user interaction tracking also supported - impression + click tracking) , highly scalable cache based) with a purpose.
 Applications include -
 
 1)Bot pattern detection/ Distributed Denial of Service/ Intrusion Detection
