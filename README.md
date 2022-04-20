@@ -291,6 +291,7 @@ Analytics Panel -
 
 Captcha Analytics will be stored in AnalyticReportfile.txt
 File is created in D:/ drive.
+All the reports are ingested in Elasticsearch for data visualisation and custom dimensions report.
 
 
 Format of file is -
